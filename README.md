@@ -24,7 +24,7 @@ Edition, MIT Press.</br>
 
 Course Description Prerequisites: COMP 5361, COMP 5511.
 ======
-Mathematical preliminaries; Empirical and theoretical measures of algorithm eciencies;</br>
+Mathematical preliminaries; Empirical and theoretical measures of algorithm eciencies;</br>
 Optimization techniques and algorithms including greedy algorithms, dynamic programming,</br>
 and graph algorithms; Amortized analysis; String matching algorithms; NP-complete</br>
 problems and approximate solutions; Probabilistic algorithms. Term project.
